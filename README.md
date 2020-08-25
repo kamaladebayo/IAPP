@@ -20,8 +20,7 @@ Upon completing this course, you will be able to:
 11.     Identify common sources of conflict within a project environment
 12.     Describe the difference between authority and influence
 
-Summary(https://onedrive.live.com/view.aspx?resid=DCC96699ED258E1F%21643&id=documents&wd=target%28Quick%20Notes.one%7C479C9138-10F7-4EAF-8158-2F2A62B4CFEA%2FInitiating%20and%20Planning%20projects.%7C0DC08DC4-654B-484F-8FD2-AAEB19BBCDAC%2F%29
-onenote:https://d.docs.live.net/dcc96699ed258e1f/Documents/Kamal's%20Notebook/Quick%20Notes.one#Initiating%20and%20Planning%20projects.&section-id={479C9138-10F7-4EAF-8158-2F2A62B4CFEA}&page-id={0DC08DC4-654B-484F-8FD2-AAEB19BBCDAC}&end)
+Summary(https://drive.google.com/file/d/1MRgYVZsNc_TDAwSVu0JGeit0CDezFSjT/view?usp=sharing)
 
 
 When you carry out a project, you face constraints. Constraints are factors that may place limitations or restrictions on when the project will end, how it is carried out...
